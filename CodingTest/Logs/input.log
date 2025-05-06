@@ -1,0 +1,9 @@
+10.03.2025 15:14:49.523 INFORMATION  Версия программы: '3.4.0.48729'
+2025-03-10 15:14:51.5882| INFO|11|MobileComputer.GetDeviceId| Код устройства: '@MINDEO-M40
+10.03.2025 15:14:49.523 WARNING Версия программы:  '1.4.0'
+10.03.2025  15:14:49.523  ERROR  Версия программы:   '1.2.0'
+10.03.2025  15:14:49.523  DEBUG  Версия программы:   '1.5.0'
+2025-03-10 11:03:51.5882| INFO|11|MobileComputer.GetDeviceId| Код устройства: '@MINDEO-M40
+2025-03-10 15:4:49.523| WARN|12|MobileComputer.GetDeviceId| Код устройства: '@MINDEO-M40
+225-03-10 15:11:51.5882| INFO|13|MobileComputer.GetDeviceId| Код устройства: '@MINDEO-M40
+225-03-10 15:11:51.5882| WARN13|MobileComputer.GetDeviceId| Код устройства: '@MINDEO-M40
